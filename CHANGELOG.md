@@ -2,6 +2,57 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.8.0](https://github.com/xseman/wsdl-tsclient/compare/v1.7.1...v1.8.0) (2024-08-12)
+
+
+### Features
+
+* add esm option ([bde0490](https://github.com/xseman/wsdl-tsclient/commit/bde049045da8493945f62d373b11c8ca8643e6c6))
+* **cli:** add option for modelPropertyNaming ([8670d29](https://github.com/xseman/wsdl-tsclient/commit/8670d29a8f98815a74d442595b7d7d3ebdb5388c))
+* eslint fixes plus other minor improvements ([c530e61](https://github.com/xseman/wsdl-tsclient/commit/c530e61a22f56b6f4e505893189f2a6467f32975))
+
+
+### Bug Fixes
+
+* Add Typescript declearation ([d6cc3c9](https://github.com/xseman/wsdl-tsclient/commit/d6cc3c9cbcb3a8ec1ec1991982faa44de963814c))
+* No reference to built files ([4343968](https://github.com/xseman/wsdl-tsclient/commit/43439685e040769f0451a291647ea7bb22a7a870))
+* update esm generator ([7b78863](https://github.com/xseman/wsdl-tsclient/commit/7b78863dd090db2e14659fa5e503112518eccbfe))
+* wire --esm cli flag to options ([3fd9a16](https://github.com/xseman/wsdl-tsclient/commit/3fd9a167e8119cbcd4657c21c063b78e02db4bdf))
+
+
+### Dependency updates
+
+* update ([5a6deb6](https://github.com/xseman/wsdl-tsclient/commit/5a6deb6d6bfa01243ac7f8e49386070d994ca7c8))
+* update 2 ([9190a04](https://github.com/xseman/wsdl-tsclient/commit/9190a046b51ad965ec71e8a973aa53271b2f7585))
+* update 3 ([2ea3280](https://github.com/xseman/wsdl-tsclient/commit/2ea32800307e098cfe7fc3c81d22442d06761e9d))
+
+
+### Documentation
+
+* mention 1.7.0 in changelog ([5058989](https://github.com/xseman/wsdl-tsclient/commit/50589893cc4dc08b759ff0f90cce43fdea240542))
+* release 1.5.0 ([9d870a6](https://github.com/xseman/wsdl-tsclient/commit/9d870a6f66fdd1f452c4c785b9acee4ef9c8e736))
+* update ([f4f244f](https://github.com/xseman/wsdl-tsclient/commit/f4f244f035f5f5ecd954f19ac05820645a619aca))
+* update CLI options ([1ee5bc0](https://github.com/xseman/wsdl-tsclient/commit/1ee5bc052042978a46a6b9dc9629467be787872c))
+
+
+### Maintenance
+
+* add missing 1.6.0 changelog ([ab482ef](https://github.com/xseman/wsdl-tsclient/commit/ab482efd03b63f502712a42f5fd054a53d972ba0))
+* add release please with provenance ([49dc863](https://github.com/xseman/wsdl-tsclient/commit/49dc86324cd946a07250334292e94f41ba355333))
+* inline variable ([34ab146](https://github.com/xseman/wsdl-tsclient/commit/34ab1466d28288727c3daeff55f1b88f617207a2))
+* move @types/yargs-parser to devDeps ([56dadd8](https://github.com/xseman/wsdl-tsclient/commit/56dadd8deee4a34dbb1f5e1116880350412639be))
+* remove todo ([3ce445d](https://github.com/xseman/wsdl-tsclient/commit/3ce445d84200b988addf1e4a7efec937e05b6a75))
+* remove travisci ([59757f0](https://github.com/xseman/wsdl-tsclient/commit/59757f027999f8766f2217b6e78fc2350c1df39a))
+* remove travisci badge ([b3341ee](https://github.com/xseman/wsdl-tsclient/commit/b3341ee08340cb464296e26eafc847a04cc14fbc))
+* update args desc ([bdd3e51](https://github.com/xseman/wsdl-tsclient/commit/bdd3e51836ab5dc24acc1243d3b6ae3bce639d8c))
+* update release ([ac61d24](https://github.com/xseman/wsdl-tsclient/commit/ac61d245b4ee9dd076732ea46e89a4d1e1aad5c2))
+* update setup-node ([60758af](https://github.com/xseman/wsdl-tsclient/commit/60758af3695ae04c34410c073ba6fdc7e0d858a3))
+
+
+### Tests
+
+* 2 ([2fbde51](https://github.com/xseman/wsdl-tsclient/commit/2fbde51525e4e55ca95af18d2c3aeb3f31822be7))
+
 ## [1.7.0] - 2024-07-15
 
 - [feat(cli): add option for modelPropertyNaming](https://github.com/dderevjanik/wsdl-tsclient/commit/8670d29a8f98815a74d442595b7d7d3ebdb5388c) `--modelPropertyNaming=` 
